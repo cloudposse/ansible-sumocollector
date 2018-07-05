@@ -61,3 +61,6 @@ crashlytics-build.properties
 .bin
 tmp/
 .tmp
+
+.build-harness
+build-harness
